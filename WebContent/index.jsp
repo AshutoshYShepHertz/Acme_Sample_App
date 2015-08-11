@@ -79,15 +79,15 @@
 									id="emailErr">Email is mandatory.</div>
 							</div>
 							<div class="contactForm_tr">
-								<div class="contactForm_td1">Phone No</div>
+								<div class="contactForm_td1">Primary Phone No</div>
 								<div class="contactForm_tdMiddle">:</div>
 								<div class="contactForm_td2">
 									<input name="phone" type="text" id="phone"
-										class="Personal-input" maxlength="30" placeholder="Enter Phone. "/>
+										class="Personal-input" maxlength="30" placeholder="Enter Phone No. "/>
 								</div>
 								<div class="contactForm_td2"
 									style="color: red; padding-left: 90px; display: none;"
-									id="phoneErr">Phone is mandatory
+									id="phoneErr">Phone  No is mandatory
 								</div>
 							</div>	
 							</fieldset>
